@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:11:5-123
+	android:maxSdkVersion
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:11:77-103
+	android:name
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:12:5-125
+	android:maxSdkVersion
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:12:79-105
+	android:name
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:13:22-72
+application
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:15:5-34:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.androidclient.MainActivity
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:21:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:31:9-33:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from C:\Users\Electron\AndroidStudioProjects\android-samples-master\AndroidClient\app\src\main\AndroidManifest.xml:32:13-58
